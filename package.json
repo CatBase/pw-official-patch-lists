@@ -1,0 +1,33 @@
+{
+  "name": "pw-official-patch-lists",
+  "version": "0.0.1",
+  "description": "Lists of patches for official Perfect World servers",
+  "homepage": "https://github.com/CatBase/pw-official-patch-lists#readme",
+  "author": "LotusTM (https://github.com/LotusTM)",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CatBase/pw-official-patch-lists.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CatBase/pw-official-patch-lists/issues"
+  },
+  "license": "UNLICENSED",
+  "main": "validator.js",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-preset-es2015": "^6.1.2",
+    "jsonfile": "^2.2.3",
+    "md5": "^2.0.0",
+    "standard": "^5.3.1"
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "standard": {
+    "parser": "babel-eslint",
+    "ignore": [
+      ".jspm.js"
+    ]
+  }
+}
