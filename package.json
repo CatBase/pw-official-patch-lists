@@ -17,17 +17,15 @@
   "dependencies": {},
   "devDependencies": {
     "babel-preset-es2015": "^6.1.2",
-    "jsonfile": "^2.2.3",
+    "bluebird": "^3.0.5",
     "md5": "^2.0.0",
+    "minimist": "^1.2.0",
     "standard": "^5.3.1"
   },
   "scripts": {
     "test": "standard"
   },
   "standard": {
-    "parser": "babel-eslint",
-    "ignore": [
-      ".jspm.js"
-    ]
+    "parser": "babel-eslint"
   }
 }
