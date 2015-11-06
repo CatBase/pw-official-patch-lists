@@ -6,7 +6,7 @@
     "file_size": "56285218",
     "file_name": "ec_patch_806-843.cup",
     "filemd5": "f8d143b07db5deb3386cc5b1223a8bd4",
-    "url": "http://download102.wanmei.com/w2i/patch/ec_patch_806-843.cup"
+    "url": "http://wmgj.dl.wanmei.com/w2i/patch/ec_patch_806-843.cup"
   },
   {
     "start": "806",
@@ -31,7 +31,7 @@
     "end": "863",
     "update_date": "2012-01-12",
     "file_size": "65893662",
-    "file_name": "ec_patch_806-863",
+    "file_name": "ec_patch_806-863.cup",
     "filemd5": "a6186d2279c55df0785d3bd1a6902200",
     "url": "http://wmgj.dl.wanmei.com/w2i/patch/ec_patch_806-863.cup"
   },
@@ -69,7 +69,7 @@
     "file_size": "7408494",
     "file_name": "ec_patch_842-843.cup",
     "filemd5": "9314811d38a20edede4dd59f1b0a76fd",
-    "url": "http://download102.wanmei.com/w2i/patch/ec_patch_842-843.cup"
+    "url": "http://wmgj.dl.wanmei.com/w2i/patch/ec_patch_842-843.cup"
   },
   {
     "start": "843",
@@ -94,7 +94,7 @@
     "end": "863",
     "update_date": "2012-01-12",
     "file_size": "10422944",
-    "file_name": "ec_patch_861-863",
+    "file_name": "ec_patch_861-863.cup",
     "filemd5": "034945569e2ab5cba7f8166aea8d3314",
     "url": "http://wmgj.dl.wanmei.com/w2i/patch/ec_patch_861-863.cup"
   },
