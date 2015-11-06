@@ -23,7 +23,7 @@ fs.readFileAsync(file, 'utf-8')
     return (format) ? formatJSON(json, 'filemd5') : json
   })
   .then(json => {
-    return saveJSON(file, json)
+    return (format) ? saveJSON(file, json) : json
   })
   .catch(err => {
     throw err
